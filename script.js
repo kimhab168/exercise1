@@ -20,6 +20,7 @@ for(let i=0;i<grades.length;i++)
     else
         console.log("Grade : F")
 
+
 //4 A company has a list of employees and their salary in separate arrays. You are tasked with the job of printing our the name of each employee and the employee’s salary as a string in the format: “Employee name: Employee salary”
 // Example: let employees = [“Lara”, “Evee”, “Simi”]
 // let salary = [1000, 2000, 120.90]
